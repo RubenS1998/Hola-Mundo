@@ -1,5 +1,5 @@
 # Hola-Mundo
-Primer repositor
+# Primer repositor
 
 Autor: Rubén Castro
 Fecha: 4/2/22
